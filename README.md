@@ -56,6 +56,8 @@ Install `argp-standalone` and `libsodium`
 brew install argp-standalone libsodium
 ```
 
+**Please note, in macOS Catalina+, there is [a bug in XCode 11 which prevents libsodium from working properly](https://github.com/jedisct1/libsodium/issues/881). In order to use `libsodium` in Catalina, please install XCode 11.2 or above.**
+
 #### 3. CMake
 
 ##### Linux
