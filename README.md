@@ -1,4 +1,5 @@
 # libsodium-file-crypter
+
 Linux file encryption utility written in C using libsodium
 
 * Current version `libsodium-file-crypter version 1.0.0`
